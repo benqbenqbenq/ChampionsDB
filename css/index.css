@@ -2641,15 +2641,10 @@ body {
     left: 0px;
     background-image: url("https://w.ladicdn.com/s400x400/610e6229642c6f001299831a/794894-20210917135443.png");
   }
-  #IMAGE25.ladi-animation > .ladi-image {
-    animation-name: tada;
-    -webkit-animation-name: tada;
-    animation-delay: 1s;
-    -webkit-animation-delay: 1s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: infinite;
-    -webkit-animation-iteration-count: infinite;
+  #IMAGE25.animation {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
   }
   #SHAPE26 {
     width: 14.9191px;
@@ -3168,15 +3163,10 @@ body {
     left: 0px;
     background-image: url("https://w.ladicdn.com/s450x450/610e6229642c6f001299831a/794894-20210917135443.png");
   }
-  #IMAGE25.ladi-animation > .ladi-image {
-    animation-name: tada;
-    -webkit-animation-name: tada;
-    animation-delay: 1s;
-    -webkit-animation-delay: 1s;
-    animation-duration: 1s;
-    -webkit-animation-duration: 1s;
-    animation-iteration-count: infinite;
-    -webkit-animation-iteration-count: infinite;
+  #IMAGE25.animation {
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
   }
   #SHAPE26 {
     width: 14.9191px;
