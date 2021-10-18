@@ -2642,8 +2642,8 @@ body {
     background-image: url("https://w.ladicdn.com/s400x400/610e6229642c6f001299831a/794894-20210917135443.png");
   }
   #IMAGE25.ladi-animation > .ladi-image {
-    animation-name: tada;
-    -webkit-animation-name: tada;
+    animation-name: swing;
+    -webkit-animation-name: swing;
     animation-delay: 1s;
     -webkit-animation-delay: 1s;
     animation-duration: 1s;
@@ -3169,8 +3169,8 @@ body {
     background-image: url("https://w.ladicdn.com/s450x450/610e6229642c6f001299831a/794894-20210917135443.png");
   }
   #IMAGE25.ladi-animation > .ladi-image {
-    animation-name: tada;
-    -webkit-animation-name: tada;
+    animation-name: swing;
+    -webkit-animation-name: swing;
     animation-delay: 1s;
     -webkit-animation-delay: 1s;
     animation-duration: 1s;
