@@ -4,7 +4,7 @@
     "name": "가렌",
     "engName": "Garen",
     "type": "TopType MidType",
-    "info": "테스트<button onclick="window.location.href='https://ojji.wayful.com'">HOME</button>",
+    "info": "테스트",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Garen.png"
   },
   {
@@ -12,7 +12,7 @@
     "name": "갈리오",
     "engName": "Galio",
     "type": "MidType SupportType",
-    "info": "테스트",
+    "info": "dddsadsadaasdadadadadadad",
     "image": "https://i.ibb.co/zfdDLPF/Galio.png"
   },
   {
@@ -20,7 +20,7 @@
     "name": "갱플랭크",
     "engName": "Gangplank",
     "type": "TopType",
-    "info": "테스트",
+    "info": "info1|info2|info3",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Gangplank.png"
   },
   {
@@ -28,7 +28,10 @@
     "name": "그라가스",
     "engName": "Gragas",
     "type": "JungleType TopType SupportType",
-    "info": "테스트",
+    "info": "info1
+info2
+info3
+info4",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Gragas.png"
   },
   {
@@ -36,7 +39,7 @@
     "name": "그레이브즈",
     "engName": "Graves",
     "type": "JungleType TopType MidType",
-    "info": "info",
+    "info": "info1 info2 info3 info4",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Graves.png"
   },
   {
