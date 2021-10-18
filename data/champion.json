@@ -4,7 +4,7 @@
     "name": "가렌",
     "engName": "Garen",
     "type": "TopType MidType",
-    "info": "<h1><ins>호우ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</ins><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://www.naver.com/'>깃헙</a></h1>",
+    "info": "<font size=5>호우</font><ins>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</ins><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://www.naver.com/'>깃헙</a>",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Garen.png"
   },
   {
