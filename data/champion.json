@@ -4,11 +4,7 @@
     "name": "가렌",
     "engName": "Garen",
     "type": "TopType MidType",
-    "info": "<form action='login_page.php'>
-  <input type='button' 
-         value='클릭해보세요' 
-         onclick='alert("안녕하세요")'/>
-</form>",
+    "info": "테스트",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Garen.png"
   },
   {
