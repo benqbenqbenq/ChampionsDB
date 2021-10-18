@@ -9,7 +9,7 @@ $(function () {
   var champion = [];
 
   $.getJSON(
-    "https://choryang.github.io/champion/data/champion.json",
+    "https://benqbenqbenq.github.io/ChampionsDB/data/champion.json",
     function (data) {
       data.map((item) => {
         champion.push(item);
