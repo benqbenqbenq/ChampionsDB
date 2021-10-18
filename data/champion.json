@@ -16,7 +16,7 @@
     "name": "갈리오",
     "engName": "Galio",
     "type": "MidType SupportType",
-    "info": "",
+    "info": "테스트",
     "image": "https://i.ibb.co/zfdDLPF/Galio.png"
   },
   {
@@ -24,7 +24,7 @@
     "name": "갱플랭크",
     "engName": "Gangplank",
     "type": "TopType",
-    "info": "info",
+    "info": "",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Gangplank.png"
   },
   {
@@ -32,7 +32,7 @@
     "name": "그라가스",
     "engName": "Gragas",
     "type": "JungleType TopType SupportType",
-    "info": "info",
+    "info": "테스트",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Gragas.png"
   },
   {
