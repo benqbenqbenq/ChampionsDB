@@ -241,7 +241,7 @@
   },
   {
     "id": 31,
-    "name": "리 신",
+    "name": "리신",
     "engName": "LeeSin",
     "type": "JungleType",
     "info": "<font size=3><b><u>xDream 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/xDreamms/EnsoulSharp/'>깃헙</a></br></br><font size=3><b><u>To(Test) 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/senkuisama/EnsoulSharp.addon'>깃헙</a></br></br><font size=3><b><u>PERFECT AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/Bravable/PerfectAio'>깃헙</a>",
@@ -273,7 +273,7 @@
   },
   {
     "id": 35,
-    "name": "마스터 이",
+    "name": "마스터이",
     "engName": "MasterYi",
     "type": "JungleType",
     "info": "<font size=3><b><u>ELCHU 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/chuycho/elchuychoAIO'>깃헙</a>",
@@ -321,7 +321,7 @@
   },
   {
     "id": 41,
-    "name": "문도 박사",
+    "name": "문도박사",
     "engName": "DrMundo",
     "type": "TopType",
     "info": "<font size=3><b><u>To(Test) 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/senkuisama/EnsoulSharp.addon'>깃헙</a></br></br><font size=3><b><u>ELCHU 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/chuycho/elchuychoAIO'>깃헙</a>",
@@ -332,7 +332,7 @@
     "name": "미스포츈",
     "engName": "MissFortune",
     "type": "BottomType",
-    "info": "실패",
+    "info": "<font size=3><b><u>To(Test) 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/senkuisama/EnsoulSharp.addon'>깃헙</a></br></br><font size=3><b><u>페리스AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/FerrisComplex/ferriscomplex.github.io/'>깃헙</a></br></br><font size=3><b><u>Shinky 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/ShinkyCode/ShinkyAio'>깃헙</a>",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/MissFortune.png"
   },
   {
@@ -625,7 +625,7 @@
   },
   {
     "id": 79,
-    "name": "아우렐리온 솔",
+    "name": "아우렐리온솔",
     "engName": "AurelionSol",
     "type": "MidType",
     "info": "<font size=3><b><u>Z---AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/ensoulsharp-io/EnsoulSharp.Assemblies'>깃헙</a>",
@@ -849,7 +849,7 @@
   },
   {
     "id": 107,
-    "name": "자르반 4세",
+    "name": "자르반4세",
     "engName": "JarvanIV",
     "type": "JungleType",
     "info": "<font size=3><b><u>페리스AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/FerrisComplex/ferriscomplex.github.io/'>깃헙</a></br></br><font size=3><b><u>ELCHU 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/chuycho/elchuychoAIO'>깃헙</a>",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 148,
-    "name": "트위스티드 페이트",
+    "name": "트위스티드페이트",
     "engName": "TwistedFate",
     "type": "MidType",
     "info": "<font size=3><b><u>xDream 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/xDreamms/EnsoulSharp/'>깃헙</a></br></br><font size=3><b><u>To(Test) 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/senkuisama/EnsoulSharp.addon'>깃헙</a></br></br><font size=3><b><u>PERFECT AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/Bravable/PerfectAio'>깃헙</a></br></br><font size=3><b><u>페리스AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/FerrisComplex/ferriscomplex.github.io/'>깃헙</a>",
