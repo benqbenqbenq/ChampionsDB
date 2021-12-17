@@ -76,7 +76,7 @@
     "name": "노틸러스",
     "engName": "Nautilus",
     "type": "SupportType",
-    "info": "<font size=3><b><u>Dog-AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://cdn.discordapp.com/attachments/921031991921627176/921032080287232012/DogAIO.esplugin'>깃헙</a>",
+    "info": "",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Nautilus.png"
   },
   {
@@ -292,7 +292,7 @@
     "name": "말자하",
     "engName": "Malzahar",
     "type": "MidType",
-    "info": "🔥<font size=3><b><u>ELCHU 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/chuycho/elchuychoAIO'>깃헙</a></br></br><font size=3><b><u>Dog-AIO 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://cdn.discordapp.com/attachments/921031991921627176/921032080287232012/DogAIO.esplugin'>깃헙</a>",
+    "info": "🔥<font size=3><b><u>ELCHU 스크립트</font>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</b></u><a style='background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;' href='https://github.com/chuycho/elchuychoAIO'>깃헙</a>",
     "image": "https://opgg-static.akamaized.net/images/lol/champion/Malzahar.png"
   },
   {
